@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <declare-styleable name="Indicator">
+        <attr name="bar_num" format="integer"/>
+        <attr name="duration" format="integer"/>
+        <attr name="bar_color" format="color" />
+        <attr name="step_num" format="integer" />
+    </declare-styleable>
+</resources>
