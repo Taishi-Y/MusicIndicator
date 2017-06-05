@@ -1,4 +1,5 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.novoda.bintray-release'
 
 android {
     compileSdkVersion 25
@@ -19,6 +20,15 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+}
+
+publish {
+    userOrg = 'taishi-y'
+    groupId = 'com.taishi-y'
+    artifactId = 'musicindicator'
+    publishVersion = '0.1.0'
+    desc = 'Music Indicator'
+    website = 'https://github.com/Taishi-Y/MusicIndicator'
 }
 
 dependencies {
