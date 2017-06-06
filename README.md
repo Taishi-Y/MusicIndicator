@@ -1,6 +1,7 @@
 # Music Indicator
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Music%20Indicator-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/5846)
-[ ![Download](https://api.bintray.com/packages/taishi-y/maven/musicindicator/images/download.svg) ](https://bintray.com/taishi-y/maven/musicindicator/_latestVersion)
+[![Download](https://api.bintray.com/packages/taishi-y/maven/musicindicator/images/download.svg) ](https://bintray.com/taishi-y/maven/musicindicator/_latestVersion)
+[![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 Music indicator for Android.🎧 ✨
