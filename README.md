@@ -117,7 +117,7 @@ Taishi Yamasaki
 - Website (http://taishi.tech/)
 - Twitter (https://twitter.com/taishi_yamasaki)
 - LinkedIn (https://www.linkedin.com/in/taishi-yamasaki)
-For contact, shoot me an email at <taishi.dev@gmail.com>
+- For contact, shoot me an email at <taishi.dev@gmail.com>
 
 # How to Contribute
 1. Fork it
